@@ -3,5 +3,5 @@
 Instructions for use:
 
 - login 
-  username: Admin
-  password = admin123
+  - username: Admin
+  - password = admin123
